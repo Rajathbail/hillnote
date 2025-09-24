@@ -1,3 +1,5 @@
+<img width="1410" height="729" alt="image" src="https://github.com/user-attachments/assets/23869972-641a-424e-b17a-71a8562e1559" />
+
 # Hillnote - AI-Powered Local workspace
 
 **The privacy-first AI workspace that runs entirely on your device.**
@@ -11,6 +13,7 @@ Latest releases are available here first! Experience the cutting edge of local A
 [Download Latest Release](https://github.com/hillnote/releases) | [Visit Hillnote.com](https://hillnote.com)
 
 ---
+<img width="1923" height="890" alt="image" src="https://github.com/user-attachments/assets/46c9161d-7158-460c-95a2-e1bccca4b463" />
 
 ## Why Hillnote?
 Hillnote is a local-first workspace designed to supercharge your AI workflow. Create documents ready to integrate with Claude, ChatGPT, Gemini, Cursor, and more - all while keeping your work on your device.
