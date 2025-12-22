@@ -1,6 +1,7 @@
-<img width="1410" height="729" alt="image" src="https://github.com/user-attachments/assets/23869972-641a-424e-b17a-71a8562e1559" />
 
 # Hillnote - AI-Powered Local workspace
+
+[A Video overview is available here](https://youtu.be/_itPWofRVEc?si=jzgr0UPE-YGygo6V)
 
 **The privacy-first AI workspace that runs entirely on your device.**
 
