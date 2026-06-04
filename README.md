@@ -11,7 +11,7 @@ Latest releases are available here first! Experience the cutting edge of local A
 
 ## Download Hillnote
 
-🖥️ **Available for:** macOS | Windows (coming soon)
+🖥️ **Available for:** macOS | Windows
 
 [Download Latest Release](https://github.com/hillnote/releases) | [Visit Hillnote.com](https://hillnote.com)
 
