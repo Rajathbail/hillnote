@@ -1,7 +1,12 @@
 
 # Hillnote - AI-Powered Local workspace
 
-Currently: v0.30.23
+Currently: v0.32.0
+
+## Learn more about hillnote at
+<img width="1295" height="824" alt="image" src="https://github.com/user-attachments/assets/ec6e1221-9fe8-4c4a-b077-0f5b502ff581" />
+
+---
 
 [A Video overview is available here](https://youtu.be/_itPWofRVEc?si=jzgr0UPE-YGygo6V)
 
